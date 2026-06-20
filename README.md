@@ -12,7 +12,7 @@
 
 <br/>
 
-![HomeKitSocket Hardware](Pic3.PNG)
+![HomeKitSocket Hardware](Pic1.jpg)
 
 </div>
 
@@ -363,20 +363,13 @@ Every 5 seconds the sketch logs `ESP.getFreeHeap()` and `arduino_homekit_connect
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/MohammadFayasKhan/HomeKitSocket/main/Pic1.jpg"
-           width="100%" alt="HomeKitSocket Hardware Assembly"/>
-      <p align="center"><b>Hardware Assembly</b><br/><sup>ESP8266 NodeMCU + dual relay module wired and ready</sup></p>
-    </td>
-    <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/MohammadFayasKhan/HomeKitSocket/main/Pic2.jpg"
            width="100%" alt="Apple Home App Control"/>
       <p align="center"><b>Apple Home Control</b><br/><sup>Two switches appearing natively in the Home app</sup></p>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" colspan="2">
+    <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/MohammadFayasKhan/HomeKitSocket/main/Pic3.PNG"
-           width="60%" alt="Full Setup Overview"/>
+           width="100%" alt="Full Setup Overview"/>
       <p align="center"><b>Full Setup Overview</b><br/><sup>USB hub and AC socket independently controlled via Siri</sup></p>
     </td>
   </tr>

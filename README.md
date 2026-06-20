@@ -1,6 +1,6 @@
 <div align="center">
 
-# HomeKitSocket 🏠
+# 🛜 Smart Home Automation Socket
 
 **Control any AC socket or USB hub wirelessly using ESP8266, Apple HomeKit, and Siri — no cloud required.**
 
